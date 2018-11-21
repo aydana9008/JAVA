@@ -1,6 +1,6 @@
 
 public class LogicalOperators {
-//hard 
+//hard to be noticed
 	public static void main(String[] args) {
 		
 		char a1 = 'A';  // A is 65 is in unicode table 
