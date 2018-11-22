@@ -2,8 +2,8 @@
 public class DataTypes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//byte
+		
+		
 		byte b1=25;
 		byte b2=-128;
 		byte b3=127;
