@@ -2,11 +2,11 @@ package JavaAtSchool;
 
 public class Asiignment {
 	
-//	public static void stringTimes(String str, int num){
-//		for(int i = 0; i < num; i++){
-//			System.out.print(str);
-//		}
-//	}
+	public static void stringTimes(String str, int num){
+		for(int i = 0; i < num; i++){
+			System.out.print(str);
+		}
+	}
      
 	
 	
