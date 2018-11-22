@@ -3,7 +3,7 @@ public class DataTypes {
 
 	public static void main(String[] args) {
 		
-		
+		byte b = 67;
 		byte b1=25;
 		byte b2=-128;
 		byte b3=127;
